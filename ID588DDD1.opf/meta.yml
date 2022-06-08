@@ -1,311 +1,321 @@
-id: P000457
+id: ID588DDD1
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 22/03/2020
-last_modified_at: 2021-12-16 15:40:57.274219
+imported: '2020-03-22T21:11:04+00:00'
+last_modified: '2022-06-08T05:19:10.050580+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W3CN53
   title: སྔ་འགྱུར་བཀའ་མའི་ཡིག་རྙིང་ཕྱོགས་བསྡུས།
   author: ''
-  volumes:
-    722e197672504804abd9a32e17aef6f5:
-      image_group_id: I3CN60
-      title: Volume 1 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 1
-      total_pages: 903
-      base_file: v011.txt
-    56911712b443498da454d273e17eb0f8:
-      image_group_id: I3CN61
-      title: Volume 2 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 2
-      total_pages: 574
-      base_file: v012.txt
-    85abd30bf9ee4d62b99f269a84a4a914:
-      image_group_id: I3CN62
-      title: Volume 3 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 3
-      total_pages: 834
-      base_file: v013.txt
-    af993c83bc794d7c817df012f8f071b3:
-      image_group_id: I3CN63
-      title: Volume 4 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 4
-      total_pages: 705
-      base_file: v014.txt
-    37ea58a6c8a04dd78a6033b1d5921b00:
-      image_group_id: I3CN64
-      title: Volume 5 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 5
-      total_pages: 732
-      base_file: v015.txt
-    f69ebcfd528c49bea3fc94fe969c86f5:
-      image_group_id: I3CN65
-      title: Volume 6 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 6
-      total_pages: 328
-      base_file: v016.txt
-    4f9008c8bc8c4b709fe51a713f23a73d:
-      image_group_id: I3CN66
-      title: Volume 7 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 7
-      total_pages: 293
-      base_file: v017.txt
-    17924e9140794505a733f139eca3ed59:
-      image_group_id: I3CN67
-      title: Volume 8 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 8
-      total_pages: 579
-      base_file: v018.txt
-    485cf0c9c6e34d8298f389e250aec890:
-      image_group_id: I3CN68
-      title: Volume 9 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 9
-      total_pages: 729
-      base_file: v019.txt
-    f5513f93a0464c9d94dbadf5f927d418:
-      image_group_id: I3CN69
-      title: Volume 10 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 10
-      total_pages: 484
-      base_file: v020.txt
-    3fb109feb0474bdd825df7259dccdf70:
-      image_group_id: I3CN70
-      title: Volume 11 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 11
-      total_pages: 820
-      base_file: v021.txt
-    7b360b65425842d6815e3a36072f1aa4:
-      image_group_id: I3CN71
-      title: Volume 12 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 12
-      total_pages: 611
-      base_file: v022.txt
-    bfe0c09a520141d19672aeecec5fc38f:
-      image_group_id: I3CN72
-      title: Volume 13 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 13
-      total_pages: 427
-      base_file: v023.txt
-    7f0bddf91209461095cfba352778357e:
-      image_group_id: I3CN73
-      title: Volume 14 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 14
-      total_pages: 424
-      base_file: v024.txt
-    ea6931f71ad9497c91f1e8380eb9bbd2:
-      image_group_id: I3CN74
-      title: Volume 15 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 15
-      total_pages: 889
-      base_file: v025.txt
-    ebabb42df18640608b931cdf6143708d:
-      image_group_id: I3CN75
-      title: Volume 16 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 16
-      total_pages: 576
-      base_file: v026.txt
-    01dbe11d5a534903b1204a66d314e4dd:
-      image_group_id: I3CN76
-      title: Volume 17 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 17
-      total_pages: 276
-      base_file: v027.txt
-    60d0d1fda62949daba65d5507863220a:
-      image_group_id: I3CN77
-      title: Volume 18 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 18
-      total_pages: 252
-      base_file: v028.txt
-    22221cfd85de4ad88ef1897436490d84:
-      image_group_id: I3CN78
-      title: Volume 19 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 19
-      total_pages: 843
-      base_file: v029.txt
-    9bd63ead62444db7a77db864d2605b2f:
-      image_group_id: I3CN79
-      title: Volume 20 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 20
-      total_pages: 304
-      base_file: v030.txt
-    dfa650e488b548799501a0d7fb96989e:
-      image_group_id: I3CN80
-      title: Volume 21 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 21
-      total_pages: 608
-      base_file: v031.txt
-    7b1f852ed3454c369efb357a2a7ae393:
-      image_group_id: I3CN81
-      title: Volume 22 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 22
-      total_pages: 453
-      base_file: v032.txt
-    acf8e0d13483433e9ce6606adfc8d45a:
-      image_group_id: I3CN82
-      title: Volume 23 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 23
-      total_pages: 523
-      base_file: v033.txt
-    8bf26a60a99b45b49608bb50be9266d3:
-      image_group_id: I3CN83
-      title: Volume 24 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 24
-      total_pages: 700
-      base_file: v034.txt
-    ab32252318634890a30479e23bc319b6:
-      image_group_id: I3CN84
-      title: Volume 25 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 25
-      total_pages: 474
-      base_file: v035.txt
-    44d26017f9d54344bb1737f7a8fd56a7:
-      image_group_id: I3CN85
-      title: Volume 26 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 26
-      total_pages: 541
-      base_file: v036.txt
-    6ee6d9e2ae43465388d2bf6c49117d93:
-      image_group_id: I3CN86
-      title: Volume 27 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 27
-      total_pages: 574
-      base_file: v037.txt
-    4b8c9fc9ed534e3d8db5e43dbe6f37ca:
-      image_group_id: I3CN87
-      title: Volume 28 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 28
-      total_pages: 750
-      base_file: v038.txt
-    bd77d346ae0d43b58c9734b3e3759c12:
-      image_group_id: I3CN88
-      title: Volume 29 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 29
-      total_pages: 503
-      base_file: v039.txt
-    897b4952d231416aa6ef9fd274520b13:
-      image_group_id: I3CN89
-      title: Volume 30 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 30
-      total_pages: 667
-      base_file: v040.txt
-    d213658f61b24e21abeff006df65dd60:
-      image_group_id: I3CN90
-      title: Volume 31 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 31
-      total_pages: 338
-      base_file: v041.txt
-    5766d1cf410e40aebd00b61aef7194b5:
-      image_group_id: I3CN91
-      title: Volume 32 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 32
-      total_pages: 418
-      base_file: v042.txt
-    b0bdaf041a1e431db03ede3bba166c2e:
-      image_group_id: I3CN92
-      title: Volume 33 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 33
-      total_pages: 511
-      base_file: v043.txt
-    83be13c1dce2433dac64575c186b25f8:
-      image_group_id: I3CN93
-      title: Volume 34 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 34
-      total_pages: 92
-      base_file: v044.txt
-    55d9cad0b7864cd3b74d1116cc75a5d3:
-      image_group_id: I3CN94
-      title: Volume 35 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 35
-      total_pages: 817
-      base_file: v045.txt
-    f681797da59844b59db016a1ea092892:
-      image_group_id: I3CN95
-      title: Volume 36 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 36
-      total_pages: 586
-      base_file: v046.txt
-    5891c766be2d4b03ba629aaa9f9d1882:
-      image_group_id: I3CN96
-      title: Volume 37 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 37
-      total_pages: 338
-      base_file: v047.txt
-    4d17cd1d0bb542fcaf3c8399854694ea:
-      image_group_id: I3CN97
-      title: Volume 38 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 38
-      total_pages: 484
-      base_file: v048.txt
-    aec3da40d51a48ec952cf2fe3642a081:
-      image_group_id: I3CN98
-      title: Volume 39 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 39
-      total_pages: 588
-      base_file: v049.txt
-    d821916a0fb3462ea89f0c9b027ef970:
-      image_group_id: I3CN99
-      title: Volume 40 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 40
-      total_pages: 196
-      base_file: v050.txt
-    b8b41aa867d84ff4affc4e832292eb02:
-      image_group_id: I3CN100
-      title: Volume 41 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 41
-      total_pages: 642
-      base_file: v001.txt
-    059e1af8be2e4fbb9f0cb33a7384a274:
-      image_group_id: I3CN101
-      title: Volume 42 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 42
-      total_pages: 411
-      base_file: v002.txt
-    ba08be0c2f7146a091f5bbcff961c0dc:
-      image_group_id: I3CN102
-      title: Volume 43 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 43
-      total_pages: 434
-      base_file: v003.txt
-    8b0e2ad568a046eebba2cb37e39723b0:
-      image_group_id: I3CN103
-      title: Volume 44 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 44
-      total_pages: 566
-      base_file: v004.txt
-    3c750fb7a95744e4823214fb305c57c7:
-      image_group_id: I3CN104
-      title: Volume 45 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 45
-      total_pages: 460
-      base_file: v005.txt
-    3ea8eedc03c04e81b7fc92bae140a407:
-      image_group_id: I3CN105
-      title: Volume 46 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 46
-      total_pages: 696
-      base_file: v006.txt
-    93625095b7a9468b9dd03a1e4e7be5ed:
-      image_group_id: I3CN106
-      title: Volume 47 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 47
-      total_pages: 1423
-      base_file: v007.txt
-    b5ace25c0386491cbe6fc99bcc953aaf:
-      image_group_id: I3CN107
-      title: Volume 48 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 48
-      total_pages: 1140
-      base_file: v008.txt
-    4e174d3e525a4dea9741c5fa65802a34:
-      image_group_id: I3CN108
-      title: Volume 49 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 49
-      total_pages: 560
-      base_file: v009.txt
-    87c94edc1ae540b68ee6ed0c0d504476:
-      image_group_id: I3CN109
-      title: Volume 50 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
-      volume_number: 50
-      total_pages: 404
-      base_file: v010.txt
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: true
+  base:
+    59CA:
+      image_group_id: I3CN60
+      title: Volume 1 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 903
+      order: 1
+      base_file: 59CA.txt
+    B4E4:
+      image_group_id: I3CN61
+      title: Volume 2 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 574
+      order: 2
+      base_file: B4E4.txt
+    CCA2:
+      image_group_id: I3CN62
+      title: Volume 3 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 834
+      order: 3
+      base_file: CCA2.txt
+    '3142':
+      image_group_id: I3CN63
+      title: Volume 4 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 705
+      order: 4
+      base_file: 3142.txt
+    E9F8:
+      image_group_id: I3CN64
+      title: Volume 5 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 732
+      order: 5
+      base_file: E9F8.txt
+    9A8E:
+      image_group_id: I3CN65
+      title: Volume 6 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 328
+      order: 6
+      base_file: 9A8E.txt
+    C082:
+      image_group_id: I3CN66
+      title: Volume 7 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 293
+      order: 7
+      base_file: C082.txt
+    105B:
+      image_group_id: I3CN67
+      title: Volume 8 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 579
+      order: 8
+      base_file: 105B.txt
+    744D:
+      image_group_id: I3CN68
+      title: Volume 9 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 729
+      order: 9
+      base_file: 744D.txt
+    6D8D:
+      image_group_id: I3CN69
+      title: Volume 10 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 484
+      order: 10
+      base_file: 6D8D.txt
+    80E5:
+      image_group_id: I3CN70
+      title: Volume 11 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 820
+      order: 11
+      base_file: 80E5.txt
+    3CAA:
+      image_group_id: I3CN71
+      title: Volume 12 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 611
+      order: 12
+      base_file: 3CAA.txt
+    432B:
+      image_group_id: I3CN72
+      title: Volume 13 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 427
+      order: 13
+      base_file: 432B.txt
+    301A:
+      image_group_id: I3CN73
+      title: Volume 14 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 424
+      order: 14
+      base_file: 301A.txt
+    E486:
+      image_group_id: I3CN74
+      title: Volume 15 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 889
+      order: 15
+      base_file: E486.txt
+    4BAE:
+      image_group_id: I3CN75
+      title: Volume 16 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 576
+      order: 16
+      base_file: 4BAE.txt
+    3ACC:
+      image_group_id: I3CN76
+      title: Volume 17 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 276
+      order: 17
+      base_file: 3ACC.txt
+    '6165':
+      image_group_id: I3CN77
+      title: Volume 18 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 252
+      order: 18
+      base_file: 6165.txt
+    18BA:
+      image_group_id: I3CN78
+      title: Volume 19 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 843
+      order: 19
+      base_file: 18BA.txt
+    67CC:
+      image_group_id: I3CN79
+      title: Volume 20 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 304
+      order: 20
+      base_file: 67CC.txt
+    99C0:
+      image_group_id: I3CN80
+      title: Volume 21 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 608
+      order: 21
+      base_file: 99C0.txt
+    A496:
+      image_group_id: I3CN81
+      title: Volume 22 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 453
+      order: 22
+      base_file: A496.txt
+    534F:
+      image_group_id: I3CN82
+      title: Volume 23 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 523
+      order: 23
+      base_file: 534F.txt
+    440F:
+      image_group_id: I3CN83
+      title: Volume 24 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 700
+      order: 24
+      base_file: 440F.txt
+    FDFD:
+      image_group_id: I3CN84
+      title: Volume 25 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 474
+      order: 25
+      base_file: FDFD.txt
+    248A:
+      image_group_id: I3CN85
+      title: Volume 26 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 541
+      order: 26
+      base_file: 248A.txt
+    B3E8:
+      image_group_id: I3CN86
+      title: Volume 27 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 574
+      order: 27
+      base_file: B3E8.txt
+    B812:
+      image_group_id: I3CN87
+      title: Volume 28 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 750
+      order: 28
+      base_file: B812.txt
+    9B39:
+      image_group_id: I3CN88
+      title: Volume 29 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 503
+      order: 29
+      base_file: 9B39.txt
+    0481:
+      image_group_id: I3CN89
+      title: Volume 30 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 667
+      order: 30
+      base_file: 0481.txt
+    8B44:
+      image_group_id: I3CN90
+      title: Volume 31 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 338
+      order: 31
+      base_file: 8B44.txt
+    DEEE:
+      image_group_id: I3CN91
+      title: Volume 32 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 418
+      order: 32
+      base_file: DEEE.txt
+    FA78:
+      image_group_id: I3CN92
+      title: Volume 33 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 511
+      order: 33
+      base_file: FA78.txt
+    E6A7:
+      image_group_id: I3CN93
+      title: Volume 34 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 92
+      order: 34
+      base_file: E6A7.txt
+    F44C:
+      image_group_id: I3CN94
+      title: Volume 35 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 817
+      order: 35
+      base_file: F44C.txt
+    924D:
+      image_group_id: I3CN95
+      title: Volume 36 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 586
+      order: 36
+      base_file: 924D.txt
+    '9973':
+      image_group_id: I3CN96
+      title: Volume 37 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 338
+      order: 37
+      base_file: 9973.txt
+    BB44:
+      image_group_id: I3CN97
+      title: Volume 38 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 484
+      order: 38
+      base_file: BB44.txt
+    CC8E:
+      image_group_id: I3CN98
+      title: Volume 39 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 588
+      order: 39
+      base_file: CC8E.txt
+    CBCC:
+      image_group_id: I3CN99
+      title: Volume 40 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 196
+      order: 40
+      base_file: CBCC.txt
+    '7736':
+      image_group_id: I3CN100
+      title: Volume 41 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 642
+      order: 41
+      base_file: 7736.txt
+    8DB2:
+      image_group_id: I3CN101
+      title: Volume 42 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 411
+      order: 42
+      base_file: 8DB2.txt
+    0D38:
+      image_group_id: I3CN102
+      title: Volume 43 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 434
+      order: 43
+      base_file: 0D38.txt
+    4EF9:
+      image_group_id: I3CN103
+      title: Volume 44 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 566
+      order: 44
+      base_file: 4EF9.txt
+    8F73:
+      image_group_id: I3CN104
+      title: Volume 45 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 460
+      order: 45
+      base_file: 8F73.txt
+    A99F:
+      image_group_id: I3CN105
+      title: Volume 46 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 696
+      order: 46
+      base_file: A99F.txt
+    72DB:
+      image_group_id: I3CN106
+      title: Volume 47 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 1423
+      order: 47
+      base_file: 72DB.txt
+    F619:
+      image_group_id: I3CN107
+      title: Volume 48 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 1140
+      order: 48
+      base_file: F619.txt
+    '9110':
+      image_group_id: I3CN108
+      title: Volume 49 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 560
+      order: 49
+      base_file: 9110.txt
+    '6521':
+      image_group_id: I3CN109
+      title: Volume 50 of snga 'gyur bka' ma'i yig rnying phyogs bsdus/
+      total_pages: 404
+      order: 50
+      base_file: 6521.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
